@@ -1,0 +1,21 @@
+#filterContent {
+    position: absolute;
+    margin: auto;
+    top: 40%;
+    left: 25%;
+    align-content: center;
+}
+
+#courseTable {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,td {
+    text-align: center;
+    padding: 7px;
+}
+
+tr:nth-child(odd) {
+	background-color: #dddddd;
+}
